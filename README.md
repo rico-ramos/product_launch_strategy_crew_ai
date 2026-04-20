@@ -1,6 +1,6 @@
 # Launch Strategy AI (CrewAI)
 
-A learning-first, production-shaped multi-agent system for product launch strategy.
+A production-shaped multi-agent system for product launch strategy.
 
 ## What it does
 
